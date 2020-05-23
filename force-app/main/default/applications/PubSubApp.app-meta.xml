@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <logo>statemini</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>PubSubApp</label>
+    <navType>Standard</navType>
+    <tabs>Subscriber__c</tabs>
+    <tabs>SubscriberToPublisher__c</tabs>
+    <tabs>PublisherMessages__c</tabs>
+    <tabs>SubscriberMessage__c</tabs>
+    <tabs>Publisher__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>PubSubApp_UtilityBar</utilityBar>
+</CustomApplication>
